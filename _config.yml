@@ -1,3 +1,21 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+# _config.yml
+title: "Dr. Heather Guarnera"
+author: "Name"
+description: "Bio"
+
+# Socials
+github_username: hmm34
+linkedin_username: ex
+twitter_username: ex
+
+# Navigation tabs
+header_pages:
+  - index.md
+  - teaching.md
+  - research.md
+  - service.md
+  - blog.md
